@@ -1,6 +1,6 @@
 # Large-language-model-project
 <p align="center">
-   🌐 <a href="https://chatglm.cn/blog" target="_blank">Blog</a> • 🤗 <a href="https://huggingface.co/THUDM/chatglm-6b" target="_blank">HF Repo</a> • 🐦 <a href="https://twitter.com/thukeg" target="_blank">Twitter</a> • 📄<a href="https://arxiv.org/pdf/2406.12793" target="_blank"> Report </a> <br>
+   🤗 <a href="https://huggingface.co/THUDM/chatglm-6b" target="_blank">HF Repo</a> <br>
 </p>
 ## 介绍
 在这个项目中，我们尝试使用大预言模型进行文本分类和命名实体识别。通常来说，完成文本分类和命名实体识别任务一般使用深度学习来完成，简单又快捷。但是开源大语言模型越来越多，或许我们可以尝试使用大语言模型来完成，其实我是想做大语言模型的多任务处理，我想试一试通过大语言模型同时处理多个任务会怎么样。在这里我选择分类和命名实体识别任务。  
